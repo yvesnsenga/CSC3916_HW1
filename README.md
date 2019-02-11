@@ -1,4 +1,4 @@
-# week3
+# Week 3
 # Yves Nsenga
 # Homework 1
 # UC Denver
